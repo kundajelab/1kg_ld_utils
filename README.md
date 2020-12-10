@@ -20,7 +20,7 @@ SNPs from "1000G.phase3.hg38.merged-merge.missnp" were multi-allelic, so removed
 bed/bim/fam files are on oak in `/oak/stanford/groups/akundaje/refs/1000genomes/hg19`  
 ethnicity filtering can be done with same approach as hg38 (see `getcaucasian/get_samples_to_keep.sh`)
 
-Peyton Greenside has pre-computed LD for hg19, with those files here:
+Alternatively to the workflow described for hg38,Peyton Greenside has pre-computed LD for hg19, with those files here:
 ```
 /mnt/lab_data/kundaje/users/pgreens/LD
 ```
